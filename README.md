@@ -68,3 +68,7 @@ For new potential routes you can use the potansiyel.py
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+## Screenshots
+
+![Screenshot](https://i.imgur.com/akJy6wK.png)
+
