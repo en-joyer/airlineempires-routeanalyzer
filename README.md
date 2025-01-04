@@ -32,6 +32,8 @@ It collects the name of the route, the distance, the current available capacity 
    ```
    Save your cookies and login info with codegen.
 
+4. Change **`urlprefix`** in **`route_processor.py`** according to world you play on.
+
 ## Usage
 
 1. Run main.py
